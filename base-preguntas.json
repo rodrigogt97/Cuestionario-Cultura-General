@@ -1,0 +1,50 @@
+[
+    {
+        "categoria": "Economia",
+        "pregunta": "¿Quién escribio La riqueza de las naciones?",
+        "respuesta": "John Smith",
+        "incorrecta1": "Miguel de Cervantes",
+        "incorrecta2": "Betrand Rusell",
+        "incorrecta3": "Karla Marx",
+        "imagen": "https://economistasalvaje.wordpress.com/wp-content/uploads/2017/01/smithwon011frontispiece.jpg?w=680",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Geografia",
+        "pregunta": "Que capital se encuentra ubicada en dos continentes",
+        "respuesta": "Estambul",
+        "incorrecta1": "Praga",
+        "incorrecta2": "Ciudad de Panama",
+        "incorrecta3": "Vladivostok\r",
+        "imagen": "https://static.guiainfantil.com/uploads/educacion/mapamundi11-p.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "En que año se descubrio el continente americano",
+        "respuesta": "1492",
+        "incorrecta1": "1524",
+        "incorrecta2": "1500",
+        "incorrecta3": "1502\r",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f6/La_conquista_del_Colorado.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿De que pais es originario la receta del pollo Teriyaki?",
+        "respuesta": "Japon",
+        "incorrecta1": "China",
+        "incorrecta2": "Taiwan",
+        "incorrecta3": "Corea\r",
+        "imagen": "https://imag.bonviveur.com/sushi-casero.webp"
+    },
+    {
+        "categoria": "Psicologia",
+        "pregunta": "Pes es a agua como tierra es",
+        "respuesta": "Planta",
+        "incorrecta1": "Abono",
+        "incorrecta2": "piedras",
+        "incorrecta3": "lava\r",
+        "imagen": "https://mentalmadrid.com/wp-content/uploads/2017/08/psicologia3.jpg"
+    }
+]
